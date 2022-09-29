@@ -4,8 +4,8 @@ Absen : 03</br>
 
 Hasil Screenshot task </br>
 
-![Screenshot](images/hasil1.jpeg) </br>
+![Screenshot](hasil1.jpeg) </br>
 
-![Screenshot](images/hasil2.jpeg) </br>
+![Screenshot](hasil2.jpeg) </br>
 
-![Screenshot](images/hasil3.jpeg) </br>
+![Screenshot](hasil3.jpeg) </br>
