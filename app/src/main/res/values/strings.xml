@@ -9,4 +9,36 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="acer_name"> Acer </string>
+    <string name="acer_description"> Acer Aspire 1 (One)</string>
+    <string name="acer_details">Acer mengeluarkan laptop dengan tampilan yang sangat bagus dan ramping.
+        Acer mengeluarkan laptop dengan tampilan yang sangat bagus dan ramping.
+        Untuk Anda yang memiliki budget terbatas dan membutuhkan sebuah laptop maka Anda bisa mencoba Acer Aspire 1 versi tahun 2020.
+        Laptop ini sudah dibekali Processor Intel Celeron N4000 yang lebih dari cukup untuk kebutuhan kerja Anda.
+        Selain itu terdapat juga RAM sebesar 4GB dan media penyimpanan HDD sebesar 64GB yang pas untuk keperluan ringan Anda.
+        Laptop yang ringan ini bisa Anda beli dengan harga mulai dari Rp 3 jutaan saja.
+    </string>
+
+    <string name="asus_name">Lenovo </string>
+    <string name="asus_description">Lenovo Yoga C640</string>
+    <string name="asus_details">Merk laptop Asus salah satu produsen laptop dengan harga terjangkau namun memiliki kualitas baik.
+Merk laptop Asus salah satu produsen laptop dengan harga terjangkau namun memiliki kualitas baik. Merk laptop keluaran ASUS ini memiliki daya tarik pada besaran RAM yang digunakan.
+Laptop ini dipersenjatai RAM 8GB yang lebih dari cukup untuk memproses berbagai pekerjaan secara bersamaan.
+Selain itu, laptop ini menggunakan prosesor Intel Core i5, dengan penyimpanan HDD 1TB.
+    </string>
+
+    <string name="lenovo_name">Lenovo</string>
+    <string name="lenovo_description">Lenovo Yoga C640</string>
+    <string name="lenovo_details">Lenovo Yoga C640 menawarkan fleksibilitas dan kemudahan dalam pemakaian.
+Lenovo Yoga C640 menawarkan fleksibilitas dan kemudahan dalam pemakaian.
+Lenovo Yoga adalah salah satu produk unggulan dari Lenovo yang mengedepankan form factor 2-in-Layar pada laptop ini bisa Anda putar secara penuh dan menjadikannya sebuah tablet portabel.
+Pada awalnya, Lenovo Yoga tidak terlalu diminati karena masih mengandalkan Processor ARM yang terkenal kurang mumpuni untuk mengatasi proses yang berat.
+Lenovo Yoga C640 sudah menggunakan Processor Core i3 Generasi ke 10 dan sudah terdapat RAM sebesar 8GB yang menunjang untuk kebutuhan multitasking Anda.
+Media penyimpanan pada laptop ini sudah mengandalkan SSD sebesar 128GB yang berkecepatan tinggi dan cocok untuk Anda yang butuh untuk menyimpan data dengan cepat.
+Laptop ini dibanderol dengan harga mulai dari Rp8 jutaan.
+    </string>
+
+
+    <string name="laptop_image_desc">laptop image</string>
 </resources>

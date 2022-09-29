@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Coding 5/04AndroidRecyclerView/app/src/main/res/drawable-anydpi/ic_add_for_fab.xml" value="0.2045" />
+        <entry key="..\:/Coding 5/04AndroidRecyclerView/app/src/main/res/layout/activity_detail.xml" value="0.20833333333333334" />
         <entry key="..\:/Coding 5/04AndroidRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Coding 5/04AndroidRecyclerView/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Coding 5/04AndroidRecyclerView/app/src/main/res/layout/recipe_list.xml" value="0.209375" />
         <entry key="..\:/Coding 5/04AndroidRecyclerView/app/src/main/res/layout/wordlist_item.xml" value="0.1403985507246377" />
       </map>
     </option>
